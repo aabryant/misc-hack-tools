@@ -1,0 +1,787 @@
+---
+:skills:
+- 00 - None
+- 01 - Attack
+- 02 - Agi
+- 03 - Agidyne
+- 04 - Maragi
+- 05 - Maragidyne
+- 06 - Bufu
+- 07 - Bufudyne
+- 08 - Mabufu
+- 09 - Mabufudyne
+- 0A - Zio
+- 0B - Ziodyne
+- 0C - Mazio
+- 0D - Maziodyne
+- 0E - Zan
+- 0F - Zandyne
+- 10 - Mazan
+- 11 - Mazandyne
+- 12 - Megido
+- 13 - Megidolaon
+- 14 - Fire Dance
+- 15 - Ice Dance
+- 16 - Elec Dance
+- 17 - Force Dance
+- 18 - Holy Dance
+- 19 - Drain
+- 1A - Judgement
+- 1B - Petra Eyes
+- 1C - Mute Eyes
+- 1D - Paral Eyes
+- 1E - Death Call
+- 1F - Power Hit
+- 20 - Berserk
+- 21 - Mighty Hit
+- 22 - Anger Hit
+- 23 - Brutal Hit
+- 24 - Hassohappa
+- 25 - Deathbound
+- 26 - Weak Kill
+- 27 - Desperation (Demon Only)
+- 28 - Makajamaon
+- 29 - Gigajama
+- 2A - Diajama
+- 2B - Makarakarn
+- 2C - Tetrakarn
+- 2D - Might Call
+- 2E - Shield All
+- 2F - Taunt
+- 30 - Dia
+- 31 - Diarahan
+- 32 - Media
+- 33 - Mediarahan
+- 34 - Amrita
+- 35 - Prayer
+- 36 - Recarm
+- 37 - Samarecarm
+- 38 - Gunfire
+- 39 - Guard
+- 3A - Devil's Fuge
+- 3B - Vampiric Mist
+- 3C - Lost Flame
+- 3D - Spawn
+- 3E - Fire of Sodom
+- 3F - Purging Light
+- 40 - Babylon
+- 41 - Megidoladyne
+- 42 - Piercing Hit
+- 43 - Multi-Hit
+- 44 - Holy Strike
+- 45 - Power Charge
+- 46 - Sexy Gaze
+- 47 - Marin Karin
+- 48 - Extra Cancel
+- 49 - Assassinate
+- 4A - Fatal Strike
+- 4B - Diarama
+- 4C - Nigayomogi
+- 4D - Recarmloss
+- 4E - Mow Down
+- 4F - Snipe
+- 50 - Life Drain
+- 51 - Multi-Strike
+- 52 - Inferno
+- 53 - Escape
+- 54 - Remain
+- 55 - Double Strike
+- 56 - Binary Fire
+- 57 - Heat Charge
+- 58 - N/A
+- 59 - Marked Wing
+- 5A - Eject Shot
+- 5B - Circumpolarity
+- 5C - N/A
+- 5D - N/A
+- 5E - Hacking
+- 5F - Dark Thunder
+- 60 - Diastrophism
+- 61 - Regenerate
+- 62 - Ultimate Hit
+- 63 - Twin Ultimate
+- 64 - Swallow
+- 65 - N/A
+- 66 - Binary Fire
+- 67 - Circumpolarity
+- 68 - Alkaid
+- 69 - Areadbhar
+- 6A - Dark Thunder
+- 6B - Regenerate
+- 6C - Supernova
+- 6D - Power Up
+- 6E - Ominous Star
+- 6F - Heaven Wrath
+- 70 - Cepheid
+- 71 - Unheard Prayer
+- 72 - Steal Macca
+- 73 - Barrage Strike
+- 74 - Heaven Wrath
+- 75 - Necromancy
+- 76 - Gomorrah Fire
+- 77 - Vitality Drain
+- 78 - Die for Me!
+- 79 - Ruinous Wind
+- 7A - Star Pressure
+- 7B - Ruinous Wind
+- 7C - Diastrophism
+- 7D - Final Hit
+- 7E - Dream Eater
+- 7F - Demon Dance
+- 80 - Roche Lobe
+- 81 - Darkness Blade
+- 82 - Defense Knife
+- 83 - Carney
+- 84 - Then, die!
+- 85 - Don't hurt me!
+- 86 - Wanna beating?
+- 87 - Shadow Scythe
+- 88 - No Killing...
+- 89 - Shadow Shield
+- 8A - Nemean Roar
+- 8B - Wider-Radius
+- 8C - Spica Spear
+- 8D - Memory-Sharing
+- 8E - Frozen Pillar
+- 8F - Vicarious Spell
+- 90 - Vicarious Doll
+- 91 - Quaser
+- 92 - Life Plower
+- 93 - Asterion
+- 94 - Partial Blast
+- 95 - Vrano=Metria
+- 96 - Megidoladyne
+- 97 - Darkness Blade
+- 98 - Darkness Blade
+- 99 - Darkness Blade
+- 9A - Darkness Blade
+- 9B - Wider-Radius
+- 9C - Then, die!
+- 9D - Then, die!
+- 9E - Then, die!
+- 9F - Then, die!
+- A0 - Lion's Armor
+- A1 - Ley Line True
+- A2 - Life Plower True
+- A3 - Beheadal
+- A4 - Primal Fire
+- A5 - Gravity Anomaly
+- A6 - Origin Selection
+- A7 - Earthly Stars
+- A8 - Master of Life
+- A9 - Heavenly Rule
+- AA - Fringer's Brand
+- AB - Flaming Fanfare
+- AC - Ley Line
+:passives:
+- 00 - None
+- 01 - +Mute
+- 02 - +Poison
+- 03 - +Paralyze
+- 04 - +Stone
+- 05 - Life Bonus
+- 06 - Mana Bonus
+- 07 - Life Surge
+- 08 - Mana Surge
+- 09 - Hero Aid
+- 0A - Ares Aid
+- 0B - Drain Hit
+- 0C - Attack All
+- 0D - Counter
+- 0E - Retaliate
+- 0F - Avenge
+- 10 - Phys Boost
+- 11 - Phys Amp
+- 12 - Fire Boost
+- 13 - Fire Amp
+- 14 - Ice Boost
+- 15 - Ice Amp
+- 16 - Elec Boost
+- 17 - Elec Amp
+- 18 - Force Boost
+- 19 - Force Amp
+- 1A - Anti-Phys
+- 1B - Anti-Fire
+- 1C - Anti-Ice
+- 1D - Anti-Elec
+- 1E - Anti-Force
+- 1F - Anti-Curse
+- 20 - Anti-Most
+- 21 - Anti-All
+- 22 - Null Phys
+- 23 - Null Fire
+- 24 - Null Ice
+- 25 - Null Elec
+- 26 - Null Force
+- 27 - Null Curse
+- 28 - Phys Drain
+- 29 - Fire Drain
+- 2A - Ice Drain
+- 2B - Elec Drain
+- 2C - Force Drain
+- 2D - Phys Repel
+- 2E - Fire Repel
+- 2F - Ice Repel
+- 30 - Elec Repel
+- 31 - Force Repel
+- 32 - Watchful
+- 33 - Endure
+- 34 - Life Aid
+- 35 - Life Lift
+- 36 - Mana Aid
+- 37 - Victory Cry
+- 38 - Pierce
+- 39 - Race-O
+- 3A - Race-D
+- 3B - Dual Shadow
+- 3C - Extra One
+- 3D - Leader Soul (Human Leader Only)
+- 3E - Knight Soul (Demon Only)
+- 3F - Paladin Soul (Demon Only)
+- 40 - Hero Soul (Demon Only)
+- 41 - Beast Eye
+- 42 - Dragon Eye
+- 43 - Crit Up
+- 44 - Dodge
+- 45 - Moneybags
+- 46 - Quick Move
+- 47 - Vigilant
+- 48 - Grimoire
+- 49 - Double Strike
+- 4A - Preserve Extra
+- 4B - Anti-Ailment
+- 4C - +Forget
+- 4D - Extra Bonus
+- 4E - Swift Step
+- 4F - Life Stream
+- 50 - Mana Stream
+- 51 - Ultimate Hit
+- 52 - Anti-Almighty
+- 53 - Phys Up
+- 54 - Pacify Human
+- 55 - Dragon Power
+- 56 - True Dragon
+- 57 - Final Dragon
+- 58 - Heavenly Gift
+- 59 - Chaos Stir
+- 5A - Undead
+- 5B - Hidden Strength
+- 5C - Holy Blessing
+- 5D - Excharge
+- 5E - Extra Zero
+- 5F - Spirit Gain
+- 60 - Hit Rate Gain
+- 61 - Quick Wit
+- 62 - Parkour
+- 63 - Hitori Nabe
+- 64 - Ikebukuro King
+- 65 - Immortal Barman
+- 66 - Defenseless
+- 67 - Coiste Bodhar
+- 68 - Dark Courier
+- 69 - Massive Shadow
+- 6A - Hound Eyes
+- 6B - Fighting Doll
+:demons:
+  0: 0000 - None
+  1: 0001 - Ronaldo
+  2: 0002 - Io
+  3: 0003 - Yamato
+  4: 0004 - Fumi
+  5: 0005 - Daichi
+  6: 0006 - Otome
+  7: 0007 - Jungo
+  8: 0008 - Makoto
+  9: 0009 - Keita
+  10: 000A - Airi
+  11: 000B - Joe
+  12: 000C - Hinako
+  13: 000D - Alcor
+  14: 000E - Tonatiuh
+  15: 000F - Chernobog
+  16: 0010 - Wu Kong
+  17: 0011 - Susano-o
+  18: 0012 - Kartikeya
+  19: 0013 - Shiva
+  20: 0014 - Hathor
+  21: 0015 - Sarasvati
+  22: 0016 - Kikuri-Hime
+  23: 0017 - Brigid
+  24: 0018 - Scathach
+  25: 0019 - Laksmi
+  26: 001A - Norn
+  27: 001B - Isis
+  28: 001C - Amaterasu
+  29: 001D - Mahakala
+  30: 001E - Thor
+  31: 001F - Arahabaki
+  32: 0020 - Odin
+  33: 0021 - Yama
+  34: 0022 - Lugh
+  35: 0023 - Baal
+  36: 0024 - Asura
+  37: 0025 - Orcus
+  38: 0026 - Pazuzu
+  39: 0027 - Abaddon
+  40: 0028 - Tao Tie
+  41: 0029 - Arioch
+  42: 002A - Tezcatlipoca
+  43: 002B - Nyarlathotep
+  44: 002C - Makara
+  45: 002D - Nozuchi
+  46: 002E - Pendragon
+  47: 002F - Gui Xian
+  48: 0030 - Quetzalcoatl
+  49: 0031 - Seiryuu
+  50: 0032 - Orochi
+  51: 0033 - Ananta
+  52: 0034 - Hoyau Kami
+  53: 0035 - Toubyou
+  54: 0036 - Bai Suzhen
+  55: 0037 - Basilisk
+  56: 0038 - Ym
+  57: 0039 - Python
+  58: 003A - Culebre
+  59: 003B - Vritra
+  60: 003C - Vasuki
+  61: 003D - Holy Ghost (Sarasvati Sprite)
+  62: 003E - Angel
+  63: 003F - Power
+  64: 0040 - Lailah
+  65: 0041 - Aniel
+  66: 0042 - Kazfiel
+  67: 0043 - Remiel
+  68: 0044 - Metatron
+  69: 0045 - Itsumade
+  70: 0046 - Moh Shuvuu
+  71: 0047 - Hamsa
+  72: 0048 - Suparna
+  73: 0049 - Vidofnir
+  74: 004A - Badb Catha
+  75: 004B - Anzu
+  76: 004C - Feng Huang
+  77: 004D - Garuda
+  78: 004E - Gagyson
+  79: 004F - Abraxas
+  80: 0050 - Flauros
+  81: 0051 - Nisroc
+  82: 0052 - Orobas
+  83: 0053 - Decarabia
+  84: 0054 - Nebiros
+  85: 0055 - Agares
+  86: 0056 - Murmur
+  87: 0057 - Heqet
+  88: 0058 - Kamapua'a
+  89: 0059 - Shiisaa
+  90: 005A - Bai Ze
+  91: 005B - Baihu
+  92: 005C - Airavata
+  93: 005D - Ukano Mitama
+  94: 005E - Barong
+  95: 005F - Anubis
+  96: 0060 - Kabuso
+  97: 0061 - Hairy Jack
+  98: 0062 - Nekomata
+  99: 0063 - Cait Sith
+  100: 0064 - Nue
+  101: 0065 - Orthrus
+  102: 0066 - Myrmecolion
+  103: 0067 - Cerberus
+  104: 0068 - Fenrir
+  105: 0069 - Hare of Inaba
+  106: 006A - Waira
+  107: 006B - Fatal Strike
+  108: 006C - Afanc
+  109: 006D - Mothman
+  110: 006E - Taown
+  111: 006F - Behemoth
+  112: 0070 - Ammut
+  113: 0071 - Tam Lin
+  114: 0072 - Jambavan
+  115: 0073 - Tlaloc
+  116: 0074 - Ictinike
+  117: 0075 - Hanuman
+  118: 0076 - Cu Chulainn
+  119: 0077 - Kresnik
+  120: 0078 - Ganesha
+  121: 0079 - Heimdall
+  122: 007A - Pixie
+  123: 007B - Knocker
+  124: 007C - Kijimunaa
+  125: 007D - Jack Frost
+  126: 007E - Pyro Jack
+  127: 007F - Silky
+  128: 0080 - Lorelei
+  129: 0081 - Vivian
+  130: 0082 - Titania
+  131: 0083 - Oberon
+  132: 0084 - King Frost
+  133: 0085 - Moloch
+  134: 0086 - Hecate
+  135: 0087 - Tzitzimitl
+  136: 0088 - Astaroth
+  137: 0089 - Mot
+  138: 008A - Loki
+  139: 008B - Lucifer
+  140: 008C - Ubelluris
+  141: 008D - Nalagiri
+  142: 008E - Hitokotonusi
+  143: 008F - Take-Mikazuchi
+  144: 0090 - Zouchouten
+  145: 0091 - Jikokuten
+  146: 0092 - Koumokuten
+  147: 0093 - Bishamonten
+  148: 0094 - Zaou Gongen
+  149: 0095 - Kobold
+  150: 0096 - Bilwis
+  151: 0097 - Gozuki
+  152: 0098 - Mezuki
+  153: 0099 - Ikusa
+  154: 009A - Lham Dearg
+  155: 009B - Berserker
+  156: 009C - Yaksa
+  157: 009D - Nata Taishi
+  158: 009E - Oumitsunu
+  159: 009F - Obariyon
+  160: 00A0 - Ogre
+  161: 00A1 - Mokoi
+  162: 00A2 - Ogun
+  163: 00A3 - Wendigo
+  164: 00A4 - Legion
+  165: 00A5 - Rakshasa
+  166: 00A6 - Girimehkala
+  167: 00A7 - Grendel
+  168: 00A8 - Black Frost
+  169: 00A9 - Kikimora
+  170: 00AA - Lilim
+  171: 00AB - Yuki Jyorou
+  172: 00AC - Leanan Sidhe
+  173: 00AD - Peri
+  174: 00AE - Hariti
+  175: 00AF - Rangda
+  176: 00B0 - Kali
+  177: 00B1 - Lilith
+  178: 00B2 - Poltergeist
+  179: 00B3 - Agathion
+  180: 00B4 - Tenong Cut
+  181: 00B5 - Kumbhanda
+  182: 00B6 - Loa
+  183: 00B7 - Pisaca
+  184: 00B8 - Kudlak
+  185: 00B9 - Purple Mirror
+  186: 00BA - Billiken
+  187: 00BB - Ghost Q
+  188: 00BC - Sage of Time
+  189: 00BD - Alice
+  190: 00BE - Trumpeter
+  191: 00BF - Neko Shogun
+  192: 00C0 - Hagen
+  193: 00C1 - Jeanne d'Arc
+  194: 00C2 - Yoshitsune
+  195: 00C3 - Guan Yu
+  196: 00C4 - Flaemis
+  197: 00C5 - Aquans
+  198: 00C6 - Aeros
+  199: 00C7 - Erthys
+  200: 00C8 - Ara Mitama
+  201: 00C9 - Nigi Mitama
+  202: 00CA - Kusi Mitama
+  203: 00CB - Saki Mitama
+  204: 00CC - Satan
+  205: 00CD - Beelzebub
+  206: 00CE - Belial
+  207: 00CF - Sariel
+  208: 00D0 - Anael
+  209: 00D1 - Atsuro (Ronaldo Sprite)
+  210: 00D2 - Yuzu (Io Sprite)
+  211: 00D3 - Asp
+  212: 00D4 - Apis
+  213: 00D5 - Pabilsag
+  214: 00D6 - Sleipnir
+  215: 00D7 - Xiezhai
+  216: 00D8 - Kangiten
+  217: 00D9 - Baphomet
+  218: 00DA - Anat
+  219: 00DB - Pallas Athena
+  220: 00DC - Mithra
+  221: 00DD - Osiris
+  222: 00DE - Gucumatz
+  223: 00DF - Da Peng
+  224: 00E0 - Ometeotl
+  225: 00E1 - Jarilo
+  226: 00E2 - Miyako
+  227: 00E3 - Botis
+  228: 00E4 - JP's Member (Male) (Sarasvati Face)
+  229: 00E5 - Salaryman (Brunette) (Sarasvati Face)
+  230: 00E6 - Salaryman (Black Hair) (Sarasvati Face)
+  231: 00E7 - Salaryman (Black Hair, Green Jacket) (Sarasvati Face)
+  232: 00E8 - Samael (Player Sprite)
+  233: 00E9 - Office Lady (Brunette) (Sarasvati Face)
+  234: 00EA - Office Lady (Black Hair) (Sarasvati Face)
+  235: 00EB - Office Lady (Purple Hair) (Sarasvati Face)
+  236: 00EC - Punk (Blond) (Sarasvati Face)
+  237: 00ED - Punk (Orange Hair) (Sarasvati Face)
+  238: 00EE - Punk (Brunette) (Sarasvati Face)
+  239: 00EF - Yakuza (White Suit) (Sarasvati Face)
+  240: 00F0 - Yakuza (Black Suit) (Sarasvati Face)
+  241: 00F1 - Module (Sarasvati Face)
+  242: 00F2 - Policeman (Sarasvati Face)
+  243: 00F3 - JP's Member (Female) (Sarasvati Face)
+  244: 00F4 - JP's Member (Male) (Sarasvati Face)
+  245: 00F5 - Young Man (Dummy) (Sarasvati Face)
+  246: 00F6 - Old Woman (Dummy) (Sarasvati Face)
+  247: 00F7 - Worker (Sarasvati Face)
+  248: 00F8 - Student (Gray Jacket) (Sarasvati Face)
+  249: 00F9 - Young Man (Brunette) (Sarasvati Face)
+  250: 00FA - Buffer (Dummy) (Sarasvati Face)
+  251: 00FB - Buffer (Dummy) (Sarasvati Face)
+  252: 00FC - JP's Agent (Dummy) (Sarasvati Face)
+  253: 00FD - JP's Agent (Dummy) (Sarasvati Face)
+  254: 00FE - JP's Agent (Dummy) (Sarasvati Face)
+  255: 00FF - JP's Agent (Dummy) (Sarasvati Face)
+  256: 0100 - JP's Agent (Dummy) (Sarasvati Face)
+  257: 0101 - Bifrons
+  258: 0102 - Barbatos
+  259: 0103 - Dzelarhons
+  260: 0104 - Kama
+  261: 0105 - Parvati
+  262: 0106 - Ixtab
+  263: 0107 - Balor
+  264: 0108 - Nergal
+  265: 0109 - Inti
+  266: 010A - Alilat
+  267: 010B - Beiji-Weng
+  268: 010C - Lord Nan Dou
+  269: 010D - Masakado
+  270: 010E - Ishtar
+  271: 010F - Black Maria
+  272: 0110 - Yurlungr
+  273: 0111 - Fafnir
+  274: 0112 - Sraosha
+  275: 0113 - Rukh
+  276: 0114 - Kau
+  277: 0115 - Cabracan
+  278: 0116 - Catoblepas
+  279: 0117 - Roitschaggata
+  280: 0118 - Spriggan
+  281: 0119 - Troll
+  282: 011A - Lucifuge
+  283: 011B - Okuninushi
+  284: 011C - Dokkaebi
+  285: 011D - Ongyo-Ki
+  286: 011E - Macabre
+  287: 011F - Jahi
+  288: 0120 - Sandalphon
+  289: 0121 - Kohryu
+  290: 0122 - Izaya
+  291: 0123 - Celty
+  292: 0124 - Shizuo
+  293: 0125 - Momunofu
+  294: 0126 - Lucifrost
+  295: 0127 - Glitch (No Sprite, No Portrait, messes up display)
+  296: 0128 - Frost Five
+  297: 0129 - Milk-Kin Frost
+  298: 012A - Strawberry Frost
+  299: 012B - Lemon Frost
+  300: 012C - Melon Frost
+  301: 012D - B. Hawaii Frost
+  302: 012E - Titan
+  303: 012F - Dionysus
+  304: 0130 - Aramisaki
+  305: 0131 - Shiki-Ouji
+  306: 0132 - Xi Wangmu
+  307: 0133 - Dominion
+  308: 0134 - Mother Harlot
+  309: 0135 - Dantalian
+  310: 0136 - Seth
+  311: 0137 - Shikigami
+  312: 0138 - Belberith (No Sprite)
+  313: 0139 - Jezebel (No Sprite)
+  314: 013A - Beldr (No Sprite)
+  315: 013B - Maggot (No Sprite)
+  316: 013C - Dubhe
+  317: 013D - Merak
+  318: 013E - Phecda
+  319: 013F - Megrez
+  320: 0140 - Alioth Core
+  321: 0141 - Mizar
+  322: 0142 - Benetnasch
+  323: 0143 - Alcor
+  324: 0144 - Polaris
+  325: 0145 - Merak Missile
+  326: 0146 - Phecda (Phys)
+  327: 0147 - Phecda (Magic)
+  328: 0148 - Megrez
+  329: 0149 - Alioth Core
+  330: 014A - Ley Line Dragon
+  331: 014B - Dubhe (Invincible)
+  332: 014C - Dubhe (Broken)
+  333: 014D - Mizar
+  334: 014E - Mizar
+  335: 014F - Tentacle
+  336: 0150 - Tentacle
+  337: 0151 - Tentacle
+  338: 0152 - Tentacle
+  339: 0153 - Tentacle
+  340: 0154 - Tentacle
+  341: 0155 - Benetnasch (Dubhe Sprite)
+  342: 0156 - Benetnasch (Megrez Piece)
+  343: 0157 - Benetnasch (Phecda Piece)
+  344: 0158 - Benetnasch (Alioth Piece)
+  345: 0159 - Benetnasch (Benetnasch Piece)
+  346: 015A - Alcor (Stage 2)
+  347: 015B - Polaris A
+  348: 015C - Polaris B
+  349: 015D - Polaris B
+  350: 015E - Tall Woman (Makoto Sprite)
+  351: 015F - Tico (Off-center Naoya Sprite, Sarasvati Portrait)
+  352: 0160 - Tico (Off-center Naoya Sprite, Sarasvati Portrait)
+  353: 0161 - Daichi
+  354: 0162 - Io
+  355: 0163 - Io
+  356: 0164 - Protagonist
+  357: 0165 - SDF Captain (Sarasvati Face)
+  358: 0166 - SDF Member (Sarasvati Face)
+  359: 0167 - Fireman (Sarasvati Face)
+  360: 0168 - Io (Deity ver.)
+  361: 0169 - Guardian (Fire)
+  362: 016A - Guardian (Ice)
+  363: 016B - Guardian (Elec)
+  364: 016C - Guardian (Force)
+  365: 016D - Guardian (Phys)
+  366: 016E - Guardian (Recovery)
+  367: 016F - Guardian (Almighty)
+  368: 0170 - Salaryman (Brunette) (Sarasvati Face)
+  369: 0171 - Punk (Blond) (Sarasvati Face)
+  370: 0172 - Student (Blue Jacket) (Sarasvati Face)
+  371: 0173 - Student (Beige Jacket) (Sarasvati Face)
+  372: 0174 - Young Man (Brunette) (Sarasvati Face)
+  373: 0175 - Young Man (Blond) (Sarasvati Face)
+  374: 0176 - Salaryman (Black Hair) (Sarasvati Face)
+  375: 0177 - Salaryman (Black Hair, Green Jacket) (Sarasvati Face)
+  376: 0178 - Punk (Orange Hair) (Sarasvati Face)
+  377: 0179 - Punk (Brunette) (Sarasvati Face)
+  378: 017A - Kitten (No Sprite, Sarasvati Face)
+  379: 017B - @ (Shadow Fumi)
+  380: 017C - Ronaldo (Shadow)
+  381: 017D - Io (Shadow)
+  382: 017E - Yamato (Shadow)
+  383: 017F - Fumi (Shadow)
+  384: 0180 - Daichi (Shadow)
+  385: 0181 - Otome (Shadow)
+  386: 0182 - Jungo (Shadow)
+  387: 0183 - Makoto (Shadow)
+  388: 0184 - Keita (Shadow)
+  389: 0185 - Airi (Shadow)
+  390: 0186 - Joe (Shadow)
+  391: 0187 - Hinako (Shadow)
+  392: 0188 - Polaris Ab
+  393: 0189 - Polaris B
+  394: 018A - Boy (No Sprite, Sarasvati Face)
+  395: 018B - Fumi (Possessed)
+  396: 018C - Lilith (Boss, Night Race)
+  397: 018D - Polaris
+  398: 018E - Vacant Woman (Possessed Fumi)
+  399: 018F - JP's Agent (No Sprite, Sarasvati Face)
+  400: 0190 - JP's Agent (No Sprite, Sarasvati Face)
+  401: 0191 - Fumi
+  402: 0192 - Miyako
+  403: 0193 - Airi (PC 035) (Dummy)
+  404: 0194 - Hinako (PC 036) (Dummy)
+  405: 0195 - Tico (Male) (Sarasvati Face)
+  406: 0196 - Tico (Female) (Sarasvati Face)
+  407: 0197 - Double Tico (Sarasvati Face)
+  408: 0198 - Denebola
+  409: 0199 - Zosma
+  410: 019A - Chort
+  411: 019B - Spica
+  412: 019C - Spica
+  413: 019D - Spica
+  414: 019E - Spica
+  415: 019F - Spica
+  416: 01A0 - Arcturus
+  417: 01A1 - Cor Caroli A
+  418: 01A2 - Cor Caroli B
+  419: 01A3 - Canopus Shard
+  420: 01A4 - Factor of Heat
+  421: 01A5 - Gene
+  422: 01A6 - Canopus
+  423: 01A7 - ???
+  424: 01A8 - Yamato
+  425: 01A9 - Origin of Gravity
+  426: 01AA - Factor of Space
+  427: 01AB - Factor of Time
+  428: 01AC - *Staff* (No Sprite, Sarasvati Face)
+  429: 01AD - Io (PC 037) (Dummy)
+  430: 01AE - Arcturus
+  431: 01AF - Denebola
+  432: 01B0 - Denebola
+  433: 01B1 - Denebola
+  434: 01B2 - ??? (PC 037)
+  435: 01B3 - Denebola
+  436: 01B4 - Zosma
+  437: 01B5 - Chort
+  438: 01B6 - Denebola
+  439: 01B7 - Zosma
+  440: 01B8 - Chort
+  441: 01B9 - Cor Caroli B
+  442: 01BA - Cor Caroli B
+  443: 01BB - Arcturus
+  444: 01BC - Matrix
+  445: 01BD - Matrix
+  446: 01BE - Matrix
+  447: 01BF - Factor of Gravity
+  448: 01C0 - Factor of Gravity
+  449: 01C1 - Shiki-Ouji (Shiki-Ouji Race)
+  450: 01C2 - Io (PC 040) (Dummy)
+  451: 01C3 - Daichi (PC 039) (Dummy)
+  452: 01C4 - Miyako (PC 041) (Dummy)
+  453: 01C5 - Yamato (PC 042) (Dummy)
+  454: 01C6 - Ronaldo (No Sprite, Sarasvati Face) (Dummy)
+  455: 01C7 - Makoto (No Sprite, Sarasvati Face) (Dummy)
+:racials:
+  0: 00 - None
+  1: 01 - Affection
+  2: 02 - Awakening
+  3: 03 - Chaos Wave
+  4: 04 - Constrict
+  5: 05 - Evil Wave
+  6: 06 - Blood Wine
+  7: 07 - Flight
+  8: 08 - Sacrifice
+  9: 09 - Switch
+  10: 0A - Animal Leg
+  11: 0B - Devil Speed
+  12: 0C - Phantasm
+  13: 0D - Glamour
+  14: 0E - Tyranny
+  15: 0F - Double Up
+  16: 10 - Aggravate
+  17: 11 - Bind
+  18: 12 - Devotion
+  30: 1E - Asura Karma
+  31: 1F - Ghost Wounds
+  32: 20 - Hero's Mark
+  33: 21 - Uncanny Form
+  34: 22 - Asura Destiny
+  35: 23 - Goddess Grace
+  36: 24 - Enlightenment
+  37: 25 - Chaos Breath
+  38: 26 - Dragon Bind
+  39: 27 - Evil Flow
+  40: 28 - Angel Stigma
+  41: 29 - Winged Flight
+  42: 2A - Fallen's Mark
+  43: 2B - Warp Step
+  44: 2C - Free Leap
+  45: 2D - Devil Flash
+  46: 2E - True Phantasm
+  47: 2F - Fairy Dust
+  48: 30 - Blood Treaty
+  49: 31 - Matchless
+  50: 32 - Agitate
+  51: 33 - Evil Bind
+  52: 34 - Mother's Love
+  53: 35 - Possession
+  54: 36 - Hero's Proof
+  55: 37 - Unearthly Form
